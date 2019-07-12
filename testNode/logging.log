@@ -1,0 +1,14 @@
+2019-05-17 17:06:09,917 - simple_example - INFO - info message
+2019-05-17 17:06:09,917 - simple_example - WARNING - warn message
+2019-05-17 17:06:09,917 - simple_example - ERROR - error message
+2019-05-17 17:06:09,917 - simple_example - CRITICAL - critical message
+2019-05-17 17:06:54,468 - simple_example - INFO - info message
+2019-05-17 17:06:54,468 - simple_example - ERROR - error message
+2019-05-17 17:06:54,468 - simple_example - CRITICAL - critical message
+2019-05-17 17:07:00,654 - simple_example - INFO - info message
+2019-05-17 17:07:00,654 - simple_example - WARNING - warn message
+2019-05-17 17:07:00,654 - simple_example - ERROR - error message
+2019-05-17 17:07:00,654 - simple_example - CRITICAL - critical message
+2019-05-17 17:10:42,305 - simple - WARNING - warn message
+2019-05-17 17:10:42,306 - simple - ERROR - error message
+2019-05-17 17:10:42,306 - simple - CRITICAL - critical message
